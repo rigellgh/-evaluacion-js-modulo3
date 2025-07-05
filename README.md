@@ -36,6 +36,3 @@ La parte más desafiante fue:
 4. **Guardar preferencias**: Usar localStorage para recordar al visitante en futuras visitas
 5. **Diseño más interactivo**: Añadir efectos hover más elaborados y micro-interacciones
 6. **Validación avanzada**: Comprobar que el nombre solo contenga caracteres válidos
-
-## Conclusión
-Esta implementación demostró cómo JavaScript puede transformar una página estática en una experiencia interactiva personalizada. La integración del formulario con el estilo existente del portafolio mantiene la coherencia visual mientras añade valor funcional.
